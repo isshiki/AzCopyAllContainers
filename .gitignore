@@ -71,3 +71,6 @@ packages/
 #ref: http://stackoverflow.com/questions/2143956/gitignore-for-visual-studio-projects-and-solutions
 #ref: http://1-byte.jp/2011/01/04/home_with_git/
 
+/AzCopyAllContainers/bin/Debug
+/AzCopyAllContainers/bin/Release/*.xml
+/AzCopyAllContainers/bin/Release/*.xml
