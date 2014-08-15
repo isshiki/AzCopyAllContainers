@@ -5,7 +5,7 @@ AzCopyAllContainers is a command-line utility to copy all containers with permis
 ## Usage
 
 ```console
-AzCopyAllContainers <SourceStrageAccount> <SourceStrageAccessKey> <DestinationStrageAccount> <DestinationStrageAccessKey>
+AzCopyAllContainers <SourceStorageAccount> <SourceStorageAccessKey> <DestinationStorageAccount> <DestinationStorageAccessKey>
 ```
 ## License
 Copyright &copy; 2014 Masahiko Isshiki
