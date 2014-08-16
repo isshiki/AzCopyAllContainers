@@ -2,7 +2,6 @@
 
 /@*
 *.url
-/AzCopyAllContainers/bin/Release/*.xml
 
 
 ######################
@@ -72,5 +71,5 @@ packages/
 #ref: http://1-byte.jp/2011/01/04/home_with_git/
 
 /AzCopyAllContainers/bin/Debug
-/AzCopyAllContainers/bin/Release/*.xml
+!/AzCopyAllContainers/bin/Release
 /AzCopyAllContainers/bin/Release/*.xml
