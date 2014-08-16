@@ -3,6 +3,10 @@
 /@*
 *.url
 
+/AzCopyAllContainers/bin/Debug
+!/AzCopyAllContainers/bin/Release/*
+/AzCopyAllContainers/bin/Release/*.xml
+
 
 ######################
 
@@ -72,6 +76,3 @@ packages/
 
 ######################
 
-/AzCopyAllContainers/bin/Debug
-!/AzCopyAllContainers/bin/Release
-/AzCopyAllContainers/bin/Release/*.xml
