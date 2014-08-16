@@ -3,9 +3,9 @@
 /@*
 *.url
 
-/AzCopyAllContainers/bin/Debug
-!/AzCopyAllContainers/bin/Release/*
-/AzCopyAllContainers/bin/Release/*.xml
+**/bin/Debug
+!**/bin/Release/*
+**/bin/Release/*.xml
 
 
 ######################
